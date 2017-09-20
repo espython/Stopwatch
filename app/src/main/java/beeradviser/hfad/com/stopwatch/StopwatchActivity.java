@@ -55,5 +55,5 @@ public class StopwatchActivity extends AppCompatActivity {
     }
 
 
-
+// End of the class
 }
